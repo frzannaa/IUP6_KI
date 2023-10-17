@@ -1,6 +1,13 @@
 # IUP6_KI
-
+Farzana Afifah Razak 5025201130
+Rahel Ceclia Purba 5025201155
+Selomita Zhafirah 5025201120
+Shafina Chaerunisa 5025201129
+Muhammad Fadli Azhar 5025201157
 This project is a foundational component of a Django-based web application that serves various functions, including user authentication, file uploads with encryption, and data retrieval. 
+
+# Disclaimer
+This is the final version of our project and the old one had a lot of modifications to it so we decided to move it here instead, to see the old progress you can see it here > https://github.com/seraaaz/Assignment1_IS_Group
 
 ## Django Imports and Setup:
 The code starts by importing essential Django modules. Django is a popular Python web framework, and these modules provide crucial functionalities for web development. `EncryptionAlgo` is set to "ARC4," which indicates that the application uses the ARC4 encryption algorithm for securing user data. It's worth noting that the ARC4 algorithm, while historically widely used, has known security vulnerabilities, and its usage should be reviewed for modern security standards.
