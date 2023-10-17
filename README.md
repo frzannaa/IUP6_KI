@@ -4,6 +4,7 @@
 - Selomita Zhafirah 5025201120
 - Shafina Chaerunisa 5025201129
 - Muhammad Fadli Azhar 5025201157
+
 This project is a foundational component of a Django-based web application that serves various functions, including user authentication, file uploads with encryption, and data retrieval. 
 
 # Disclaimer
