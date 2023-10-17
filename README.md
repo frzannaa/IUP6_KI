@@ -36,6 +36,9 @@ In addition to its functional aspects, the code logs the time taken for the uplo
 
 ## Running Time Analysis
 
+![S__10502313](https://github.com/frzannaa/IUP6_KI/assets/100435004/60e1e63b-3f83-47cd-b1d3-dc1b76aeda63)
+
+
 The running time analysis in the provided log indicates the time intervals between different log entries. Here's a breakdown of the time intervals between specific events:
 
 1. Time Interval from the first request to the second request: 10 seconds
@@ -43,3 +46,25 @@ The running time analysis in the provided log indicates the time intervals betwe
 3. Time Interval from the start of the file operations to the delta time measurement: Approximately 1 minute and 12 seconds
 4. Delta Time Measurement: 1.019479 seconds
 5. Time Interval from the delta time measurement to the third request: Approximately 1 minute and 53 seconds
+
+
+# Web Screenshots
+
+Login Page
+![Login page](https://github.com/frzannaa/IUP6_KI/assets/100435004/f9429f97-c58c-4b01-b239-c186e7d55747)
+
+Form Page
+![form page](https://github.com/frzannaa/IUP6_KI/assets/100435004/30d73c5d-c578-4d70-b186-d4494c94a697)
+
+Saved Successfully page
+![Saved successfully page](https://github.com/frzannaa/IUP6_KI/assets/100435004/a1136a80-53da-4085-a869-f95dbe22acc4)
+
+Profile Page
+![profile page](https://github.com/frzannaa/IUP6_KI/assets/100435004/cf4e3a03-d716-40e1-9629-7ad9a75a2ecf)
+
+Downloadable Contents
+![downloaded content](https://github.com/frzannaa/IUP6_KI/assets/100435004/46d3f88a-8006-4100-80af-153834c5e969)
+
+Database page
+![database](https://github.com/frzannaa/IUP6_KI/assets/100435004/5122fd97-1e69-4d30-b018-5589d966822f)
+
